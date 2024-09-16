@@ -110,8 +110,25 @@
 // console.log(result);
 
 
-let arr = ['akm', 'api', 'jkl', 'pop']; 
-let result = arr.filter(char => char.includes('a'));
-console.log(result);
+// let arr = ['akm', 'api', 'jkl', 'pop']; 
+// let result = arr.filter(char => char.includes('a'));
+// console.log(result);
+
+
+
+//let arr = [23, 45, 12, 36];
+//let result = arr.sort();
+//let result2 = arr.sort((a,b) => b - a);
+//console.log(result);
+//console.log(result2);
+
+
+// let arr = ['apple', 'kiwi', 'banana', 'lemon'];
+// arr.forEach((item,index) => {
+//     if (item === 'banana'){
+//         arr[index] = 'mango';
+//     }
+// });
+// console.log(arr);
 
 
