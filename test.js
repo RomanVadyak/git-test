@@ -110,4 +110,8 @@
 // console.log(result);
 
 
+let arr = ['akm', 'api', 'jkl', 'pop']; 
+let result = arr.filter(char => char.includes('a'));
+console.log(result);
+
 
